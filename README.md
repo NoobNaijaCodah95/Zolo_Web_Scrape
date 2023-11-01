@@ -38,9 +38,7 @@ Sample visuals of the data set.
 <img width="986" alt="image" src="https://github.com/NoobNaijaCodah95/Zolo_Web_Scrape/assets/137308988/d5dd2bfe-c329-436b-ac44-811f91ea8135">
 
 # Conclusion:
-Certain Brokerages like FOREST HILL REAL ESTATE INC. may have fewer listings than RIGHT AT HOME REALTY but still come 
-close to listing valuation. This suggests that brokerages like FOREST HILL REAL ESTATE INC., tend to specialize in 
-more expensive listings. FOREST HILL REAL ESTATE INC (24 listings, Listing Value;40633560). 
+ROYAL LEPAGE SIGNATURE REALTY dominates in both number of listings and valuation of houses. This shows they are the market leaders on this website.  
 
 There are more listings concentrated close to the 1000 square feet range. This has produced Right Skewed distribution in both graphs. Most Square Ft is clustered to the left side. This suggests listings are more lkely with 1-2 bedroom due to small square foot size.
 
